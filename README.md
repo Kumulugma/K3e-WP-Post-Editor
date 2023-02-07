@@ -2,7 +2,7 @@
 # K3e - Edytor wpisów
 
 ------------------
-Niewielki system kontroli kolekcji roślin.
+Wtyczka pozwalajaca na masową edycję meta przy wpisach określonego typu.
 ------------------
 Uwzględnione funkcjonalności:
 
